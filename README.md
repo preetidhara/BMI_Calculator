@@ -25,7 +25,9 @@ High : bmi > 25
     <td><img src="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-11-15.png"</td>
   </tr>
   <tr>
-    <td>February</td>
+     <th>Month</th>
+    <th>Savings</th>
+    <td>$56</td>
     <td>$80</td>
   </tr>
 </table>
