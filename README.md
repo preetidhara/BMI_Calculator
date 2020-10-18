@@ -24,9 +24,8 @@ High : bmi > 25
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-05-31.png"><img src="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-11-15.png" alt="alt text" title="first screen" style="max-width:100%;"></a></td>
-  
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-11-15.png"><img src=https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-11-15.png" alt="alt text" title="Normal BMI" style="max-width:100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/NINadjem/BMI-Calculator/blob/master/Screenshots/mainPage.png"><img src="https://github.com/NINadjem/BMI-Calculator/raw/master/Screenshots/mainPage.png" alt="alt text" title="first screen" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/NINadjem/BMI-Calculator/blob/master/Screenshots/normalW.png"><img src="https://github.com/NINadjem/BMI-Calculator/raw/master/Screenshots/normalW.png" alt="alt text" title="Normal BMI" style="max-width:100%;"></a></td>
 </tr>
 </tbody>
 </table>
@@ -39,8 +38,8 @@ High : bmi > 25
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-16-61.png"><img src="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-16-61.png" alt="alt text" title="high BMI" style="max-width:100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-25-98.png"><img src="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-25-98.png" alt="alt text" title="low BMI" style="max-width:100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/NINadjem/BMI-Calculator/blob/master/Screenshots/overW.png"><img src="https://github.com/NINadjem/BMI-Calculator/raw/master/Screenshots/overW.png" alt="alt text" title="high BMI" style="max-width:100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/NINadjem/BMI-Calculator/blob/master/Screenshots/underW.png"><img src="https://github.com/NINadjem/BMI-Calculator/raw/master/Screenshots/underW.png" alt="alt text" title="low BMI" style="max-width:100%;"></a></td>
 </tr>
 </tbody>
 </table>
