@@ -27,7 +27,11 @@ High : bmi > 25
   <tr>
      <th>Month</th>
     <th>Savings</th>
-    <td>$56</td>
-    <td>$80</td>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-16-61.png"</td>
+    <td><img src="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-25-98.png"</td>
+    <td><img src="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-38-43.png"</td>
   </tr>
 </table>
