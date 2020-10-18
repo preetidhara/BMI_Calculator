@@ -16,9 +16,9 @@ High : bmi > 25
 
 <p>here is the project preview:</p>
 <table>
-  <tr>
-    <th>Month</th>
-    <th>Savings</th>
+  <tr style="align:center">
+    <th>Main Screen</th>
+    <th>Your Result</th>
   </tr>
   <tr>
     <td><img src="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-05-31.png"</td>
