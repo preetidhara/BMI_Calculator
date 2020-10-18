@@ -25,9 +25,9 @@ High : bmi > 25
     <td><img src="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-11-15.png"</td>
   </tr>
   <tr>
-     <th>Month</th>
-    <th>Savings</th>
-    <th>Savings</th>
+     <th>Normal</th>
+    <th>High</th>
+    <th>Low</th>
   </tr>
   <tr>
     <td><img src="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-16-61.png"</td>
