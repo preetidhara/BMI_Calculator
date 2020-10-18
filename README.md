@@ -21,7 +21,7 @@ High : bmi > 25
     <th>Savings</th>
   </tr>
   <tr>
-    <td>January</td>
+    <td><img src="https://github.com/preetidhara/BMI_Calculator/blob/main/Scr/Screenshot_2020-10-18-01-30-05-31.png"</td>
     <td>$100</td>
   </tr>
   <tr>
