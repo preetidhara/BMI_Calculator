@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="minus">minus</string>
+    <string name="plus">plus</string>
+    <string name="weight">weight</string>
+    <string name="age">age</string>
+    <string name="_18_5_25_kg_m2">18.5 – 25 kg/m2</string>
+    <string name="normal_bmi_range">Normal BMI range:</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_age">your_age</string>
+    <string name="your_result">YOUR RESULT</string>
+</resources>
