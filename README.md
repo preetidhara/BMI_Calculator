@@ -16,30 +16,16 @@ High : bmi > 25
 
 <p>here is the project preview:</p>
 <table>
-<thead>
-<tr>
-<th>Main UI</th>
-<th align="center">Reporting BMI State (case Normal)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/NINadjem/BMI-Calculator/blob/master/Screenshots/mainPage.png"><img src="https://github.com/NINadjem/BMI-Calculator/raw/master/Screenshots/mainPage.png" alt="alt text" title="first screen" style="max-width:100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/NINadjem/BMI-Calculator/blob/master/Screenshots/normalW.png"><img src="https://github.com/NINadjem/BMI-Calculator/raw/master/Screenshots/normalW.png" alt="alt text" title="Normal BMI" style="max-width:100%;"></a></td>
-</tr>
-</tbody>
-</table>
-<table>
-<thead>
-<tr>
-<th>Reporting BMI State (case OverWeight)</th>
-<th align="center">Reporting BMI State (case UnderWeight)</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/NINadjem/BMI-Calculator/blob/master/Screenshots/overW.png"><img src="https://github.com/NINadjem/BMI-Calculator/raw/master/Screenshots/overW.png" alt="alt text" title="high BMI" style="max-width:100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/NINadjem/BMI-Calculator/blob/master/Screenshots/underW.png"><img src="https://github.com/NINadjem/BMI-Calculator/raw/master/Screenshots/underW.png" alt="alt text" title="low BMI" style="max-width:100%;"></a></td>
-</tr>
-</tbody>
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
 </table>
