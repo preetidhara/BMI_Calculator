@@ -12,6 +12,8 @@ Low : bmi < 18.5
 Normal : 18.4 < bmi < 25.1
 High : bmi > 25
 
+# Made In Kotlin ! 
+
 # Screenshots
 
 <p>here is the project preview:</p>
